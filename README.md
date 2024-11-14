@@ -36,3 +36,6 @@ Foram utilizados os seguintes modelos:
 ## Base de Dados
 Foram utilizadas duas bases de dados obtidas no **Kaggle**
 
+## Modelo
+
+O modelo utilizado para gerar as probabilidades é o `tcc_modelo_premier-league_proba.ipynb`.
