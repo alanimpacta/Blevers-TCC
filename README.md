@@ -18,8 +18,8 @@ Orientador: Professor Me. Gilberto Alves Pereira
 - **Python**
 - **NumPy**
 - **Pandas**
-- **Sklearn **
-- **Matplotlib **
+- **Sklearn**
+- **Matplotlib**
 - **Seaborn**
 - **Google Colab** (IDE)
 
